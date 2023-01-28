@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(166, 172, 177);
+  background-color: rgba(66, 82, 97, 0.904);
 }
 
 table td {
@@ -23,7 +23,7 @@ table td {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: rgb(0, 0, 0);
+  background-color: rgba(10, 14, 27, 0.781);
   border-radius: 10px;
 }
 
